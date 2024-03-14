@@ -68,7 +68,7 @@ namespace ConsoleApp3
             socrat();
             if (Numerator == 0)
             {
-                return "0\n";
+                return "0";
             }
             else if (Denominator == 1)
             {
